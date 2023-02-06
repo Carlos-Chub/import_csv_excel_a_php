@@ -1,12 +1,11 @@
 <?php
-header('Content-Type: text/html; charset=UTF-8'); 
-// header('Content-Type: text/html; charset=ISO-8859-1');
-
 //import.php
 
 include 'vendor/autoload.php';
 
-$connect = new PDO("mysql:host=localhost;dbname=prueba_nomen", "root", "");
+// $connect = new PDO("mysql:host=localhost;dbname=prueba_nomen", "root", "");
+$conexion = mysqli_connect("localhost", "root", "", "prueba_nomen");
+mysqli_set_charset($conexion, 'utf8'); //linea a colocar
 
 if ($_FILES["import_excel"]["name"] != '') {
     $allowed_extension = array('xls', 'csv', 'xlsx');
@@ -25,14 +24,15 @@ if ($_FILES["import_excel"]["name"] != '') {
 
         $data = $spreadsheet->getActiveSheet()->toArray();
 
+
         foreach ($data as $row) {
             $insert_data = array(
                 ':ccodcta'  => $row[1],
-                ':cdescrip'  => utf8_encode($row[2]) 
+                ':cdescrip'  => $row[2]
             );
 
             $query = "INSERT INTO ctb_nomenclatura (ccodcta, cdescrip) VALUES (:ccodcta, :cdescrip)
-   ";
+               ";
 
             $statement = $connect->prepare($query);
             $statement->execute($insert_data);

@@ -1,0 +1,1828 @@
+1;1;ACTIVO
+2;101;DISPONIBILIDADES
+3;1011;MONEDA NACIONAL
+4;101101;CAJA
+5;10110101;Caja principal
+6;10110102;Caja agencias
+7;10110103;Dispensadores de efectivo
+8;10110104;Caja chica
+9;10110105;Cheques en compensación
+10;101103;BANCOS DEL PAÍS
+11;10110301;Depósitos monetarios
+12;10110302;Depósitos de ahorro
+13;10110303;Depósitos a plazo
+14;10110304;Otros depósitos
+15;101104;BANCOS DEL EXTERIOR
+16;10110401;Depósitos monetarios
+17;10110402;Depósitos de ahorro
+18;10110403;Depósitos a plazo
+19;10110404;Otros depósitos
+20;101107;FEDERACIÓN
+21;10110701;Encaje cooperativo
+22;10110702;Depósito de ahorro
+23;10110703;Depósito a plazo
+24;10110704;Depósito intersistema
+25;10110705;Depósito remesas del exterior
+26;10110706;Depósito tarjeta de crédito
+27;10110707;Depósito tarjeta de débito
+28;10110708;Otros depósitos
+29;101108;OTRAS ENTIDADES FINANCIERAS
+30;10110801;Depósitos de ahorro
+31;10110802;Depósitos a plazo
+32;10110803;Otros depósitos
+33;101199;PRODUCTOS FINANCIEROS POR COBRAR
+34;10119901;Interéses
+35;1011990103;Bancos del país
+36;1011990104;Bancos del exterior
+37;1011990107;Federación
+38;1011990108;Otras entidades financieras
+39;1016;MONEDA EXTRANJERA
+40;101601;CAJA
+41;10160101;Caja principal
+42;10160102;Caja agencias
+43;10160103;Dispensadores de efectivo
+44;10160104;Caja chica
+45;10160105;Cheques en compensación
+46;10160180;Diferencial cambiario
+47;101603;BANCOS DEL PAÍS
+48;10160301;Depósitos monetarios
+49;10160302;Depósitos de ahorro
+50;10160303;Depósitos a plazo
+51;10160304;Otros depósitos
+52;10160380;Diferencial cambiario
+53;101604;BANCOS DEL EXTERIOR
+54;10160401;Depósitos monetarios
+55;10160402;Depósitos de ahorro
+56;10160403;Depósitos a plazo
+57;10160406;Otros depósitos
+58;10160480;Diferencial cambiario
+59;101607;FEDERACIÓN
+60;10160701;Encaje cooperativo
+61;10160702;Depósito de ahorro
+62;10160703;Depósito a plazo
+63;10160704;Depósito intersistema
+64;10160705;Depósito remesas del exterior
+65;10160706;Depósito tarjeta de crédito
+66;10160707;Depósito tarjeta de débito
+67;10160708;Otros depósitos
+68;10160780;Diferencial cambiario
+69;101608;OTRAS ENTIDADES FINANCIERAS
+70;10160801;Depósitos monetarios
+71;10160802;Depósitos de ahorro
+72;10160803;Depósitos a plazo
+73;10160804;Otros depósitos
+74;10160880;Diferencial cambiario
+75;101699;PRODUCTOS FINANCIEROS POR COBRAR
+76;10169901;Intereses
+77;1016990103;Bancos del país
+78;1016990104;Bancos del exterior
+79;1016990107;Federación
+80;1016990108;Otras entidades financieras
+81;10169980;Diferencial cambiario
+82;102;INVERSIONES
+83;1021;MONEDA NACIONAL
+84;102103;EN TÍTULOS-VALORES PARA SU VENCIMIENTO
+85;10210301;De gobierno y entidades oficiales
+86;1021030101;Gobierno central
+87;1021030102;Banco central
+88;1021030103;Otras entidades del estado
+89;10210302;De Instituciones financieras
+90;10210303;De entidades no financieras
+91;102106;INVERSIONES EN FONDO DE GARANTÍA
+92;10210601;Inversión en fondo de garantía
+93;10210602;Capitalización de intereses fondo de garantía
+94;102199;PRODUCTOS FINANCIEROS POR COBRAR
+95;10219901;Intereses
+96;1021990103;En títulos-valores para su vencimiento
+97;1.02199E+11;De gobierno y entidades oficiales
+98;1.02199E+11;De instituciones financieras
+99;1.02199E+11;De entidades no financieras
+100;1.02199E+11;Fondo de garantía
+101;1026;MONEDA EXTRANJERA
+102;102603;EN TÍTULOS-VALORES PARA SU VENCIMIENTO
+103;10260301;De gobierno y entidades oficiales
+104;1026030101;Gobierno central
+105;1026030102;Banco central
+106;1026030103;Otras entidades del estado
+107;10260302;De instituciones financieras
+108;10260303;De entidades no financieras
+109;10260305;Inversiones reportadas
+110;102606;FONDO DE GARANTÍA
+111;10260601;Inversión en fondo de garantía
+112;10260602;Capitalización de intereses fondo de garantía
+113;10260680;Diferencial cambiario
+114;102699;PRODUCTOS FINANCIEROS POR COBRAR
+115;10269901;Intereses
+116;1026990103;En títulos-valores para su vencimiento
+117;1.02699E+11;De gobierno y entidades oficiales
+118;1.02699E+11;De instituciones financieras
+119;1.02699E+11;De entidades no financieras
+120;1026990106;Fondo de garantía
+121;10269980;Diferencial cambiario
+122;103;CARTERA DE CRÉDITOS
+123;1031;MONEDA NACIONAL
+124;103101;VIGENTE
+125;10310102;Productivos
+126;1031010201;Préstamos
+127;1.03101E+11;Fiduciarios
+128;1.03101E+11;Prendarios – fiduciarios
+129;1.03101E+11;Prendarios
+130;1.03101E+11;Hipotecarios – fiduciarios
+131;1.03101E+11;Hipotecarios – prendarios
+132;1.03101E+11;Hipotecarios
+133;1.03101E+11;Derechos de posesión
+134;1.03101E+11;Hipotecarios - prendarios – fiduciarios
+135;1.03101E+11;Con garantía de obligaciones depositarias propias
+136;1031010209;Deudores por venta de activos extraordinarios
+137;10310103;Microcréditos
+138;1031010301;Préstamos
+139;1.03101E+11;Fiduciarios
+140;1.03101E+11;Prendarios – fiduciarios
+141;1.03101E+11;Prendarios
+142;1.03101E+11;Hipotecarios – fiduciarios
+143;1.03101E+11;Hipotecarios – Prendarios
+144;1.03101E+11;Hipotecarios
+145;1.03101E+11;Derechos de posesión
+146;1.03101E+11;Hipotecarios - prendarios – fiduciarios
+147;1.03101E+11;Con garantía de obligaciones depositarias propias
+148;1031010309;Deudores por venta de activos extraordinarios
+149;10310104;Vivienda
+150;1031010401;Préstamos
+151;1.03101E+11;Fiduciarios
+152;1.03101E+11;Prendarios – fiduciarios
+153;1.03101E+11;Prendarios
+154;1.03101E+11;Hipotecarios – fiduciarios
+155;1.03101E+11;Hipotecarios- prendarios
+156;1.03101E+11;Hipotecarios
+157;1.03101E+11;Derechos de posesión
+158;1.03101E+11;Fiduciarios
+159;1.03101E+11;Con garantía de obligaciones depositaria propias
+160;10310105;Consumo
+161;1031010501;Préstamos
+162;1.03101E+11;Fiduciarios
+163;1.03101E+11;Prendarios – fiduciarios
+164;1.03101E+11;Prendarios
+165;1.03101E+11;Hipotecarios – fiduciarios
+166;1.03101E+11;Hipotecarios – prendarios
+167;1.03101E+11;Hipotecarios
+168;1.03101E+11;Derechos de posesión
+169;1.03101E+11;Hipotecarios - prendarios – fiduciarios
+170;1.03101E+11;Con garantía de obligaciones depositarias propias
+171;1031010505;Tarjetas de crédito
+172;1031010509;Deudores por venta de activos extraordinarios
+173;103102;VENCIDA
+174;10310201;En prórroga
+175;1031020102;Productivos
+176;1.03102E+11;Préstamos
+177;1.03102E+13;Fiduciarios
+178;1.03102E+13;Prendarios – fiduciarios
+179;1.03102E+13;Prendarios
+180;1.03102E+13;Hipotecarios – fiduciarios
+181;1.03102E+13;Hipotecarios – prendarios
+182;1.03102E+13;Hipotecarios
+183;1.03102E+13;Derechos de posesión
+184;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+185;1.03102E+13;Con garantía de obligaciones depositarias propias
+186;1.03102E+11;Deudores por venta de activos extraordinarios
+187;1031020103;Microcréditos
+188;1.03102E+11;Préstamos
+189;1.03102E+13;Fiduciarios
+190;1.03102E+13;Prendarios – fiduciarios
+191;1.03102E+13;Prendarios
+192;1.03102E+13;Hipotecarios – fiduciarios
+193;1.03102E+13;Hipotecarios – prendarios
+194;1.03102E+13;Hipotecarios
+195;1.03102E+13;Derechos de posesión
+196;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+197;1.03102E+13;Con garantía de obligaciones propias
+198;1.03102E+11;Deudores por venta de activos extraordinarios
+199;1031020104;Vivienda
+200;1.03102E+11;Préstamos
+201;1.03102E+13;Fiduciarios
+202;1.03102E+13;Prendarios – fiduciarios
+203;1.03102E+13;Prendarios
+204;1.03102E+13;Hipotecarios – fiduciarios
+205;1.03102E+13;Hipotecarios – prendarios
+206;1.03102E+13;Hipotecarios
+207;1.03102E+13;Derechos de posesión
+208;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+209;1.03102E+13;Con garantía de obligaciones depositarias propias
+210;1031020105;Consumo
+211;1.03102E+11;Préstamos
+212;1.03102E+13;Fiduciarios
+213;1.03102E+13;Prendarios – fiduciarios
+214;1.03102E+13;Prendarios
+215;1.03102E+13;Hipotecarios – fiduciarios
+216;1.03102E+13;Hipotecarios – prendarios
+217;1.03102E+13;Hipotecarios
+218;1.03102E+13;Derechos de posesión
+219;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+220;1.03102E+13;Con garantía de obligaciones depositarias propias
+221;1.03102E+11;Tarjetas de crédito
+222;1.03102E+11;Deudores por venta de activos extraordinarios
+223;10310202;En cobro administrativo
+224;1031020202;Productivos
+225;1.03102E+11;Préstamos
+226;1.03102E+13;Fiduciarios
+227;1.03102E+13;Prendarios – fiduciarios
+228;1.03102E+13;Prendarios
+229;1.03102E+13;Hipotecarios – fiduciarios
+230;1.03102E+13;Hipotecarios – prendarios
+231;1.03102E+13;Hipotecarios
+232;1.03102E+13;Derechos de posesión
+233;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+234;1.03102E+13;Con garantía de obligaciones depositarias propias
+235;1.03102E+11;Deudores por venta de activos extraordinarios
+236;1031020203;Microcréditos
+237;1.03102E+11;Préstamos
+238;1.03102E+13;Fiduciarios
+239;1.03102E+13;Prendarios – fiduciarios
+240;1.03102E+13;Prendarios
+241;1.03102E+13;Hipotecarios – fiduciarios
+242;1.03102E+13;Hipotecarios – prendarios
+243;1.03102E+13;Hipotecarios
+244;1.03102E+13;Derechos de posesión
+245;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+246;1.03102E+13;Con garantía de obligaciones depositarias propias
+247;1.03102E+11;Deudores por venta de activos extraordinarios
+248;1031020204;Vivienda
+249;1.03102E+11;Préstamos
+250;1.03102E+13;Fiduciarios
+251;1.03102E+13;Prendarios – fiduciarios
+252;1.03102E+13;Prendarios
+253;1.03102E+13;Hipotecarios- fiduciarios
+254;1.03102E+13;Hipotecarios – prendarios
+255;1.03102E+13;Hipotecarios
+256;1.03102E+13;Derechos de posesión
+257;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+258;1.03102E+13;Con garantía de obligaciones depositarias propias
+259;1031020205;Consumo
+260;1.03102E+11;Préstamos
+261;1.03102E+13;Fiduciarios
+262;1.03102E+13;Prendarios – fiduciarios
+263;1.03102E+13;Prendarios
+264;1.03102E+13;Hipotecarios – fiduciarios
+265;1.03102E+13;Hipotecarios – prendarios
+266;1.03102E+13;Hipotecarios
+267;1.03102E+13;Derechos de posesión
+268;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+269;1.03102E+13;Con garantía de obligaciones depositarias propias
+270;1.03102E+11;Tarjetas de crédito
+271;1.03102E+11;Deudores por venta de activos extraordinarios
+272;10310203;En cobro judicial
+273;1031020302;Productivos
+274;1.03102E+11;Préstamos
+275;1.03102E+13;Fiduciarios
+276;1.03102E+13;Prendarios – fiduciarios
+277;1.03102E+13;Prendarios
+278;1.03102E+13;Hipotecarios – fiduciarios
+279;1.03102E+13;Hipotecarios – prendarios
+280;1.03102E+13;Hipotecarios
+281;1.03102E+13;Derechos de posesión
+282;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+283;1.03102E+13;Con garantía de obligaciones depositarias propias
+284;1.03102E+11;Deudores por venta de activos extraordinarios
+285;1031020303;Microcréditos
+286;1.03102E+11;Préstamos
+287;1.03102E+13;Fiduciarios
+288;1.03102E+13;Prendarios – fiduciarios
+289;1.03102E+13;Prendarios
+290;1.03102E+13;Hipotecarios – fiduciarios
+291;1.03102E+13;Hipotecarios – prendarios
+292;1.03102E+13;Hipotecarios
+293;1.03102E+13;Derechos de posesión
+294;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+295;1.03102E+13;Con garantía de obligaciones depositarias propias
+296;1.03102E+11;Deudores por venta de activos extraordinarios
+297;1031020304;Vivienda
+298;1.03102E+11;Préstamos
+299;1.03102E+13;Fiduciarios
+300;1.03102E+13;Prendarios – fiduciarios
+301;1.03102E+13;Prendarios
+302;1.03102E+13;Hipotecarios – fiduciarios
+303;1.03102E+13;Hipotecarios – prendarios
+304;1.03102E+13;Hipotecarios
+305;1.03102E+13;Derechos de posesión
+306;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+307;1.03102E+13;Con garantía de obligaciones depositarias propias
+308;1031020305;Consumo
+309;1.03102E+11;Préstamos
+310;1.03102E+13;Fiduciarios
+311;1.03102E+13;Prendarios – fiduciarios
+312;1.03102E+13;Prendarios
+313;1.03102E+13;Hipotecarios – fiduciarios
+314;1.03102E+13;Hipotecarios – prendarios
+315;1.03102E+13;Hipotecarios
+316;1.03102E+13;Derechos de posesión
+317;1.03102E+13;Hipotecarios - prendarios – fiduciarios
+318;1.03102E+13;Con garantía de obligaciones depositarias propias
+319;1.03102E+11;Tarjetas de crédito
+320;1.03102E+11;Deudores por venta de activos extraordinarios
+321;103199;PRODUCTOS FINANCIEROS POR COBRAR
+322;10319901;Intereses
+323;1031990102;Productivos
+324;1.03199E+11;Préstamos
+325;1.03199E+11;Deudores por venta de activos extraordinarios
+326;1031990103;Microcréditos
+327;1.03199E+11;Préstamos
+328;1.03199E+11;Deudores por venta de activos extraordinarios
+329;1031990104;Vivienda
+330;1.03199E+11;Préstamos
+331;1031990105;Consumo
+332;1.03199E+11;Préstamos
+333;1.03199E+11;Tarjetas de crédito
+334;1.03199E+11;Deudores por venta de activos extraordinarios
+335;10319902;Gastos administrativos
+336;1031990202;Productivos
+337;1.03199E+11;Préstamos
+338;1.03199E+11;Deudores por venta de activos extraordinarios
+339;1031990203;Microcréditos
+340;1.03199E+11;Préstamos
+341;1.03199E+11;Deudores por venta de activos extraordinarios
+342;1031990204;Vivienda
+343;1.03199E+11;Préstamos
+344;1031990205;Consumo
+345;1.03199E+11;Préstamos
+346;1.03199E+11;Tarjetas de crédito
+347;1.03199E+11;Deudores por venta de activos extraordinarios
+348;1036;MONEDA EXTRANJERA
+349;103601;VIGENTE
+350;10360102;Productivos
+351;1036010201;Préstamos
+352;1.03601E+11;Fiduciarios
+353;1.03601E+11;Prendarios – fiduciarios
+354;1.03601E+11;Prendarios
+355;1.03601E+11;Hipotecarios – fiduciarios
+356;1.03601E+11;Hipotecarios – prendarios
+357;1.03601E+11;Hipotecarios
+358;1.03601E+11;Derechos de posesión
+359;1.03601E+11;Hipotecarios - prendarios – fiduciarios
+360;1.03601E+11;Con garantía de obligaciones depositarias propias
+361;1036010209;Deudores por venta de activos extraordinarios
+362;10360103;Microcréditos
+363;1036010301;Préstamos
+364;1.03601E+11;Fiduciarios
+365;1.03601E+11;Prendarios – fiduciarios
+366;1.03601E+11;Prendarios
+367;1.03601E+11;Hipotecarios – fiduciarios
+368;1.03601E+11;Hipotecarios – prendarios
+369;1.03601E+11;Hipotecarios
+370;1.03601E+11;Derechos de posesión
+371;1.03601E+11;Hipotecarios - prendarios – fiduciarios
+372;1.03601E+11;Con garantía de obligaciones depositarias propias
+373;1036010309;Deudores por venta de activos extraordinarios
+374;10360104;Vivienda
+375;1036010401;Préstamos
+376;1.03601E+11;Fiduciarios
+377;1.03601E+11;Prendarios – fiduciarios
+378;1.03601E+11;Prendarios
+379;1.03601E+11;Hipotecarios – fiduciarios
+380;1.03601E+11;Hipotecarios – prendarios
+381;1.03601E+11;Hipotecarios
+382;1.03601E+11;Derechos de posesión
+383;1.03601E+11;Hipotecarios - prendarios – fiduciarios
+384;1.03601E+11;Con garantía de obligaciones depositarias propias
+385;10360105;Consumo
+386;1036010501;Préstamos
+387;1.03601E+11;Fiduciarios
+388;1.03601E+11;Prendarios – fiduciarios
+389;1.03601E+11;Prendarios
+390;1.03601E+11;Hipotecarios – fiduciarios
+391;1.03601E+11;Hipotecarios – prendarios
+392;1.03601E+11;Hipotecarios
+393;1.03601E+11;Derechos de posesión
+394;1.03601E+11;Hipotecarios - prendarios – fiduciarios
+395;1.03601E+11;Con garantía de obligaciones depositarias propias
+396;1036010505;Tarjetas de crédito
+397;1036010509;Deudores por venta de activos extraordinarios
+398;10360180;Diferencial cambiario
+399;103602;VENCIDA
+400;10360201;En prórroga
+401;1036020102;Productivos
+402;1.03602E+11;Préstamos
+403;1.03602E+13;Fiduciarios
+404;1.03602E+13;Prendarios – fiduciarios
+405;1.03602E+13;Prendarios
+406;1.03602E+13;Hipotecarios – fiduciarios
+407;1.03602E+13;Hipotecarios – prendarios
+408;1.03602E+13;Hipotecarios
+409;1.03602E+13;Derechos de posesión
+410;1.03602E+13;Hipotecarios - Prendarios – Fiduciarios
+411;1.03602E+13;Con Garantía de Obligaciones depositarias Propias
+412;1.03602E+11;Deudores por Venta de Activos Extraordinarios
+413;1036020103;Microcréditos
+414;1.03602E+11;Préstamos
+415;1.03602E+13;Fiduciarios
+416;1.03602E+13;Prendarios – fiduciarios
+417;1.03602E+13;Prendarios
+418;1.03602E+13;Hipotecarios – fiduciarios
+419;1.03602E+13;Hipotecarios – prendarios
+420;1.03602E+13;Hipotecarios
+421;1.03602E+13;Derechos de posesión
+422;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+423;1.03602E+13;Con garantía de obligaciones depositarias propias
+424;1.03602E+11;Deudores por venta de activos extraordinarios
+425;1036020104;Vivienda
+426;1.03602E+11;Préstamos
+427;1.03602E+13;Fiduciarios
+428;1.03602E+13;Prendarios – fiduciarios
+429;1.03602E+13;Prendarios
+430;1.03602E+13;Hipotecarios – fiduciarios
+431;1.03602E+13;Hipotecarios – Prendarios
+432;1.03602E+13;Hipotecarios
+433;1.03602E+13;Derechos de posesión
+434;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+435;1.03602E+13;Con garantía de obligaciones depositarias propias
+436;1036020105;Consumo
+437;1.03602E+11;Préstamos
+438;1.03602E+13;Fiduciarios
+439;1.03602E+13;Prendarios – fiduciarios
+440;1.03602E+13;Prendarios
+441;1.03602E+13;Hipotecarios – fiduciarios
+442;1.03602E+13;Hipotecarios – prendarios
+443;1.03602E+13;Hipotecarios
+444;1.03602E+13;Derechos de posesión
+445;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+446;1.03602E+13;Con garantía de obligaciones depositarias propias
+447;1.03602E+11;Tarjetas de crédito
+448;1.03602E+11;Deudores por venta de activos extraordinarios
+449;10360202;En cobro administrativo
+450;1036020202;Productivos
+451;1.03602E+11;Préstamos
+452;1.03602E+13;Fiduciarios
+453;1.03602E+13;Prendarios – fiduciarios
+454;1.03602E+13;Prendarios
+455;1.03602E+13;Hipotecarios – fiduciarios
+456;1.03602E+13;Hipotecarios – prendarios
+457;1.03602E+13;Hipotecarios
+458;1.03602E+13;Derechos de posesión
+459;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+460;1.03602E+13;Con garantía de obligaciones depositarias propias
+461;1.03602E+11;Deudores por venta de activos extraordinarios
+462;1036020203;Microcréditos
+463;1.03602E+11;Préstamos
+464;1.03602E+13;Fiduciarios
+465;1.03602E+13;Prendarios – fiduciarios
+466;1.03602E+13;Prendarios
+467;1.03602E+13;Hipotecarios – fiduciarios
+468;1.03602E+13;Hipotecarios – prendarios
+469;1.03602E+13;Hipotecarios
+470;1.03602E+13;Derechos de posesión
+471;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+472;1.03602E+13;Con garantía de obligaciones depositarias propias
+473;1.03602E+11;Deudores por venta de activos extraordinarios
+474;1036020204;Vivienda
+475;1.03602E+11;Préstamos
+476;1.03602E+13;Fiduciarios
+477;1.03602E+13;Prendarios – fiduciarios
+478;1.03602E+13;Prendarios
+479;1.03602E+13;Hipotecarios – fiduciarios
+480;1.03602E+13;Hipotecarios – prendarios
+481;1.03602E+13;Hipotecarios
+482;1.03602E+13;Derechos de posesión
+483;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+484;1.03602E+13;Con garantía de obligaciones depositarias propias
+485;1036020205;Consumo
+486;1.03602E+11;Préstamos
+487;1.03602E+13;Fiduciarios
+488;1.03602E+13;Prendarios – fiduciarios
+489;1.03602E+13;Prendarios
+490;1.03602E+13;Hipotecarios – fiduciarios
+491;1.03602E+13;Hipotecarios – prendarios
+492;1.03602E+13;Hipotecarios
+493;1.03602E+13;Derechos de posesión
+494;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+495;1.03602E+13;Con garantía de obligaciones depositarias propias
+496;1.03602E+11;Tarjetas de crédito
+497;1.03602E+11;Deudores por venta de activos extraordinarios
+498;10360203;En cobro judicial
+499;1036020302;Productivos
+500;1.03602E+11;Préstamos
+501;1.03602E+13;Fiduciarios
+502;1.03602E+13;Prendarios – fiduciarios
+503;1.03602E+13;Prendarios
+504;1.03602E+13;Hipotecarios – fiduciarios
+505;1.03602E+13;Hipotecarios – prendarios
+506;1.03602E+13;Hipotecarios
+507;1.03602E+13;Derechos de posesión
+508;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+509;1.03602E+13;Con garantía de obligaciones depositarias propias
+510;1.03602E+11;Deudores por venta de activos extraordinarios
+511;1036020303;Microcréditos
+512;1.03602E+11;Préstamos
+513;1.03602E+13;Fiduciarios
+514;1.03602E+13;Prendarios – fiduciarios
+515;1.03602E+13;Prendarios
+516;1.03602E+13;Hipotecarios – fiduciarios
+517;1.03602E+13;Hipotecarios – prendarios
+518;1.03602E+13;Hipotecarios
+519;1.03602E+13;Derechos de posesión
+520;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+521;1.03602E+13;Con garantía de obligaciones depositarias propias
+522;1.03602E+11;Deudores por venta de activos extraordinarios
+523;1036020304;Vivienda
+524;1.03602E+11;Préstamos
+525;1.03602E+13;Fiduciarios
+526;1.03602E+13;Prendarios – fiduciarios
+527;1.03602E+13;Prendarios
+528;1.03602E+13;Hipotecarios – fiduciarios
+529;1.03602E+13;Hipotecarios – Prendarios
+530;1.03602E+13;Hipotecarios
+531;1.03602E+13;Derechos de posesión
+532;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+533;1.03602E+13;Con garantía de obligaciones depositarias propias
+534;1036020305;Consumo
+535;1.03602E+11;Préstamos
+536;1.03602E+13;Fiduciarios
+537;1.03602E+13;Prendarios – fiduciarios
+538;1.03602E+13;Prendarios
+539;1.03602E+13;Hipotecarios – fiduciarios
+540;1.03602E+13;Hipotecarios – prendarios
+541;1.03602E+13;Hipotecarios
+542;1.03602E+13;Derechos de posesión
+543;1.03602E+13;Hipotecarios - prendarios – fiduciarios
+544;1.03602E+13;Con garantía de obligaciones depositarias propias
+545;1.03602E+11;Tarjetas de crédito
+546;1.03602E+11;Deudores por venta de activos extraordinarios
+547;10360280;Diferencial cambiario
+548;103699;PRODUCTOS FINANCIEROS POR COBRAR
+549;10369901;Intereses
+550;1036990102;Productivos
+551;1.03699E+11;Préstamos
+552;1.03699E+11;Deudores por venta de activos extraordinarios
+553;1036990103;Microcréditos
+554;1.03699E+11;Préstamos
+555;1.03699E+11;Deudores por venta de activos extraordinarios
+556;1036990104;Vivienda
+557;1.03699E+11;Préstamos
+558;1036990105;Consumo
+559;1.03699E+11;Préstamos
+560;1.03699E+11;Tarjetas de crédito
+561;1.03699E+11;Deudores por venta de activos extraordinarios
+562;10369902;Gastos administrativos
+563;1036990202;Productivos
+564;1.03699E+11;Préstamos
+565;1.03699E+11;Deudores por venta de activos extraordinarios
+566;1036990203;Microcréditos
+567;1.03699E+11;Préstamos
+568;1.03699E+11;Deudores por venta de activos extraordinarios
+569;1036990204;Vivienda
+570;1.03699E+11;Préstamos
+571;1036990205;Consumo
+572;1.03699E+11;Préstamos
+573;1.03699E+11;Tarjetas de crédito
+574;1.03699E+11;Deudores por venta de activos extraordinarios
+575;10369980;Diferencial cambiario
+576;104;CUENTAS POR COBRAR
+577;1041;MONEDA NACIONAL
+578;104101;DEUDORES VARIOS
+579;10410101;Pagos por cuenta ajena
+580;10410102;Faltante de caja y valores
+581;10410103;Saldos insolutos adjudicación de garantías
+582;10410104;Derechos por servicios
+583;10410105;Primas de seguros
+584;10410106;Gastos Judiciales
+585;10410107;Impuestos, arbitrios, contribuciones
+586;10410108;Anticipo sobre sueldos
+587;10410110;Sobregiros temporales
+588;10410111;Cheques rechazados
+589;10410112;Arrendamientos
+590;10410113;Depósitos en garantía
+591;10410199;Otros
+592;104102;CUENTAS POR LIQUIDAR
+593;10410201;Cuentas por liquidar
+594;10410299;Otras
+595;104199;PRODUCTOS POR COBRAR
+596;10419901;Productos financieros por cobrar
+597;1041990101;Intereses
+598;1041990102;Comisiones
+599;1041990103;Créditos por situaciones emergentes
+600;10419902;Productos por servicios por cobrar
+601;1041990201;Arrendamientos
+602;1046;MONEDA EXTRANJERA
+603;104601;DEUDORES VARIOS
+604;10460101;Pagos por cuenta ajena
+605;10460102;Faltantes de caja y valores
+606;10460103;Saldos insolutos adjudicación de garantías
+607;10460104;Derechos por servicios
+608;10460105;Primas de seguros
+609;10460106;Gastos judiciales
+610;10460108;Anticipos sobre sueldos
+611;10460110;Sobregiros temporales
+612;10460111;Cheques y Giros rechazados
+613;10460113;Depósitos en garantía
+614;10460180;Diferencial cambiario
+615;10460199;Otros
+616;104602;CUENTAS POR LIQUIDAR
+617;10460201;Cuentas por liquidar
+618;10460280;Diferencial cambiario
+619;10460299;Otras
+620;104699;PRODUCTOS POR COBRAR
+621;10469901;Productos financieros por cobrar
+622;1046990101;Intereses
+623;1046990102;Comisiones
+624;10469902;Productos por servicios por cobrar
+625;1046990201;Arrendamientos
+626;10469980;Diferencial cambiario
+627;105;BIENES REALIZABLES
+628;1051;MONEDA NACIONAL
+629;105101;ACTIVOS EXTRAORDINARIOS
+630;10510101;Títulos-valores
+631;10510102;Inmuebles
+632;10510103;Muebles
+633;10510104;Erogaciones por activos extraordinarios
+634;1056;MONEDA EXTRANJERA
+635;105601;ACTIVOS EXTRAORDINARIOS
+636;10560101;Títulos-valores
+637;10560104;Erogaciones por activos extraordinarios
+638;10560180;Diferencial cambiario
+639;106;INVERSIONES PERMANENTES
+640;1061;MONEDA NACIONAL
+641;106101;ACCIONES
+642;10610101;De instituciones financieras
+643;10610102;De entidades no financieras
+644;106102;APORTACIONES
+645;10610201;Federación
+646;10610202;Otras
+647;106199;PRODUCTOS FINANCIEROS POR COBRAR
+648;10619901;Intereses
+649;1061990101;Federación
+650;1061990102;Otras
+651;1066;MONEDA EXTRANJERA
+652;106601;ACCIONES
+653;10660101;De instituciones financieras
+654;10660102;De entidades no financieras
+655;10660180;Diferencial cambiario
+656;106602;APORTACIONES
+657;10660202;Otras
+658;10660280;Diferencial cambiario
+659;106699;PRODUCTOS FINANCIEROS POR COBRAR
+660;10669901;Intereses
+661;1066990101;Federación
+662;1066990102;Otras
+663;10669980;Diferencial cambiario
+664;107;OTRAS CUENTAS DE INVERSIÓN
+665;1071;MONEDA NACIONAL
+666;107104;PROPIEDAD DE INVERSIÓN
+667;10710401;Propiedad de inversión
+668;1076;MONEDA EXTRANJERA
+669;107604;PROPIEDAD DE INVERSIÓN
+670;10760401;Propiedad de inversión
+671;10760480;Diferencial cambiario
+672;109;INMUEBLES Y MUEBLES
+673;1091;MONEDA NACIONAL
+674;109101;INMUEBLES
+675;10910101;Terrenos
+676;1091010101;Costo
+677;1091010102;Incremento por tasación
+678;10910102;Edificios
+679;1091010201;Costo
+680;1091010202;Mejoras
+681;1091010203;Incremento por tasación
+682;109102;MUEBLES
+683;10910201;Mobiliario y equipo de oficina
+684;10910202;Sistemas informáticos
+685;1091020201;Equipo de cómputo
+686;1091020202;Programas informáticos
+687;10910203;Equipo de comunicaciones
+688;10910204;Maquinaria
+689;10910205;Vehículos
+690;10910206;Pinacoteca y otras obras de arte
+691;1091020601;Costo
+692;1091020602;Incremento por tasación
+693;10910207;Biblioteca
+694;10910299;Otros
+695;109103;CONSTRUCCIONES EN PROCESO
+696;10910301;Anticipos para construcción
+697;10910302;Edificaciones
+698;109104;ANTICIPOS
+699;10910401;Para adquisición de activos
+700;109105;MEJORAS A PROPIEDADES AJENAS
+701;10910501;Bienes inmuebles
+702;10910502;Bienes muebles
+703;110;CARGOS DIFERIDOS
+704;1101;MONEDA NACIONAL
+705;110101;GASTOS POR AMORTIZAR
+706;11010101;Organización
+707;11010102;Acondicionamiento y remodelación de oficinas
+708;11010103;Mejoras a propiedades ajenas
+709;11010104;Gastos por fusión de cooperativas
+710;110102;ACTIVOS INTANGIBLES
+711;11010201;Derechos de llave
+712;11010202;Marcas y patentes
+713;11010203;Concesiones
+714;11010204;Licencias de programas informáticos
+715;11010299;Otros
+716;110103;GASTOS ANTICIPADOS
+717;11010301;Materiales y suministros
+718;1101030101;Proveeduría
+719;1101030102;Otros
+720;11010302;Servicios
+721;1101030201;Reparaciones y mantenimiento
+722;1101030202;Sistemas informáticos
+723;1101030203;Mercadeo
+724;1101030204;Intereses y comisiones
+725;1101030205;Primas de seguros y fianzas
+726;1101030206;Seguridad y vigilancia
+727;1101030207;Sueldos y honorarios
+728;1101030208;Alquileres
+729;1101030299;Otros
+730;11010303;Impuestos y otros
+731;1101030301;Impuestos
+732;1101030302;Arbitrios
+733;1101030303;Contribuciones
+734;1106;MONEDA EXTRANJERA
+735;110603;GASTOS ANTICIPADOS
+736;11060302;Servicios
+737;1106030201;Reparaciones y mantenimiento
+738;11060380;Diferencial cambiario
+739;111;INVERSIONES NO FINANCIERAS
+740;1111;INVERSIONES NO FINANCIERAS
+741;111101;INVERSIONES NO FINANCIERAS
+742;112;TRANSFERENCIAS INTERNAS
+743;1121;MONEDA NACIONAL
+744;112101;PRÉSTAMOS ENTRE AGENCIAS
+745;11210101;Préstamos entre agencias (transacciones)
+746;11210102;Préstamos entre agencias (tesorería)
+747;112102;Ingreso / costo financiero
+748;112103;Asignación de costo corporativo
+749;113;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+750;1131;MONEDA NACIONAL
+751;113101;CAJA
+752;11310101;Caja principal
+753;11310102;Caja chica
+754;11310103;Fondo fijo
+755;113103;BANCOS DEL PAIS
+756;11310301;Depósitos monetarios
+757;11310302;Depósitos de ahorro
+758;11310303;Depósitos a plazo
+759;11310304;Otros depósitos
+760;113104;BANCOS DEL EXTERIOR
+761;11310401;Depósitos monetarios
+762;11310402;Depósitos de ahorro
+763;11310403;Depósitos a plazo
+764;11310404;Otros depósitos
+765;113105;CUENTAS Y DOCUMENTOS POR COBRAR
+766;11310501;Clientes
+767;11310502;Cuentas por cobrar
+768;11310503;Cuentas por cobrar saldos morosos
+769;11310504;Impuestos por cobrar
+770;11310505;Deudores varios
+771;113106;INVENTARIOS
+772;11310601;Inventarios
+773;113107;INMUEBLES Y MUEBLES
+774;11310701;Inmuebles
+775;11310702;Muebles
+776;113108;CARGOS DIFERIDOS
+777;11310801;Gastos pagados por anticipado
+778;11310802;Gastos amortizables
+779;113109;OTROS ACTIVOS
+780;11310901;Otros activos diversos
+781;113;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+782;1136;MONEDA EXTRANJERA
+783;113601;CAJA
+784;11360101;Caja principal
+785;11360102;Caja chica
+786;11360103;Fondo fijo
+787;113603;BANCOS DEL PAIS
+788;11360301;Depósitos monetarios
+789;11360302;Depósitos de ahorro
+790;11360303;Depósitos a plazo
+791;11360304;Otros depósitos
+792;113604;BANCOS DEL EXTERIOR
+793;11360401;Depósitos monetarios
+794;11360402;Depósitos de ahorro
+795;11360403;Depósitos a plazo
+796;11360404;Otros depósitos
+797;113605;CUENTAS Y DOCUMENTOS POR COBRAR
+798;11360501;Clientes
+799;11360502;Cuentas por cobrar
+800;11360503;Cuentas por cobrar saldos morosos
+801;11360504;Impuestos por cobrar
+802;11360505;Deudores varios
+803;2;CUENTAS REGULARIZADORAS DE ACTIVO
+804;201;ESTIMACIONES POR VALUACIÓN
+805;2011;MONEDA NACIONAL
+806;201102;INVERSIONES
+807;20110201;Específica
+808;20110202;Genérica
+809;201103;CARTERA DE CRÉDITOS
+810;20110301;Específica
+811;20110302;Genérica
+812;201104;CUENTAS POR COBRAR
+813;20110401;Específica
+814;20110402;Genérica
+815;201105;BIENES REALIZABLES
+816;20110501;Específica
+817;20110502;Genérica
+818;201106;INVERSIONES PERMANENTES
+819;20110601;Específica
+820;20110602;Genérica
+821;201107;OTRAS INVERSIONES
+822;20110701;Específica
+823;20110702;Genérica
+824;2016;MONEDA EXTRANJERA
+825;201602;INVERSIONES
+826;20160201;Específica
+827;20160202;Genérica
+828;20160280;Diferencial cambiario
+829;201603;CARTERA DE CRÉDITOS
+830;20160301;Específica
+831;20160302;Genérica
+832;20160380;Diferencial cambiario
+833;201604;CUENTAS POR COBRAR
+834;20160401;Específica
+835;20160402;Genérica
+836;20160480;Diferencial cambiario
+837;201605;BIENES REALIZABLES
+838;20160501;Específica
+839;20160502;Genérica
+840;20160580;Diferencial cambiario
+841;201606;INVERSIONES PERMANENTES
+842;20110601;Específica
+843;20110602;Genérica
+844;20160680;Diferencial cambiario
+845;201607;OTRAS INVERSIONES
+846;20160701;Específica
+847;20160702;Genérica
+848;20160780;Diferencial cambiario
+849;202;DEPRECIACIONES ACUMULADAS
+850;2021;MONEDA NACIONAL
+851;202109;INMUEBLES Y MUEBLES
+852;20210901;Inmuebles
+853;20210902;Muebles
+854;203;AMORTIZACIONES ACUMULADAS
+855;2031;MONEDA NACIONAL
+856;203110;CARGOS DIFERIDOS
+857;20311001;Gastos por amortizar
+858;20311002;Activos intangibles
+859;204;AMORTIZACIÓN PROPIEDADES AJENAS
+860;2041;MONEDA NACIONAL
+861;204101;Amortización inmuebles
+862;204102;Amortización muebles
+863;213;"ESTIMACIONES POR VALUACIÓN DE NEGOCIOS SIN
+INTERMEDIACIÓN FINANCIERA"
+864;2131;MONEDA NACIONAL
+865;213101;CUENTAS REGULARIZADORAS
+866;21310101;Estimación para cuentas incobrables
+867;21310102;Depreciación acumulada inmuebles
+868;21310103;Depreciación acumulada muebles
+869;21310104;Amortizaciones acumuladas
+870;299;TRANSITORIAS DEUDORAS
+871;2991;MONEDA NACIONAL
+872;299101;Bancos
+873;299102;Inversiones
+874;299103;Colocaciones
+875;299104;Cuentas federación
+876;299105;Activos fijos
+877;2996;MONEDA EXTRANJERA
+878;299601;Bancos
+879;299602;Inversiones
+880;299603;Colocaciones
+881;299604;Cuentas federación
+882;299680;Diferencial cambiario
+883;3;PASIVO
+884;301;OBLIGACIONES DEPOSITARIAS
+885;3011;MONEDA NACIONAL
+886;301102;DEPÓSITOS DE AHORRO
+887;30110201;Ahorro corriente
+888;3011020101;Ahorro corriente
+889;30110202;Ahorro especial
+890;3011020201;Ahorro especial
+891;301103;DEPÓSITOS A PLAZO
+892;30110301;Depósitos a plazo
+893;301104;DEPÓSITOS A LA ORDEN
+894;30110401;Depósitos a la orden
+895;301105;DEPÓSITOS CON RESTRICCIONES
+896;30110501;Depósitos con restricciones
+897;301106;FEDERACIÓN
+898;30110601;Encaje cooperativo
+899;30110602;Depósito de ahorro
+900;30110603;Depósito a plazo
+901;30110604;Depósito intersistema
+902;30110605;Depósito remesas del exterior
+903;30110606;Depósito tarjeta de crédito
+904;30110607;Depósito tarjeta de débito
+905;30110608;Otros depósitos
+906;301199;GASTOS FINANCIEROS POR PAGAR
+907;30119901;Interéses
+908;3011990102;Depósitos de ahorro
+909;3011990103;Depósitos a plazo
+910;3011990104;Depósitos a la órden
+911;3011990105;Depósitos con restricciones
+912;3011990150;Aportaciones
+913;30119902;Comisiones
+914;30119903;Beneficios adicionales
+915;3016;MONEDA EXTRANJERA
+916;301602;DEPÓSITOS DE AHORRO
+917;30160201;Ahorro corriente
+918;3016020101;Ahorro corriente
+919;30160202;Ahorro especial
+920;3016020201;Ahorro especial
+921;30160280;Diferencial cambiario
+922;301603;DEPÓSITOS A PLAZO
+923;30160301;Depósitos a plazo
+924;30160380;Diferencial Cambiario
+925;301604;DEPÓSITOS A LA ORDEN
+926;30160401;Depósitos a la orden
+927;30160480;Diferencial Cambiario
+928;301605;DEPÓSITOS CON RESTRICCIONES
+929;30160501;Depósitos con restricciones
+930;30160580;Diferencial cambiario
+931;301606;FEDERACIÓN
+932;30160601;Encaje cooperativo
+933;30160602;Depósito de ahorro
+934;30160603;Depósito a plazo
+935;30160604;Depósito intersistema
+936;30160605;Depósito remesas del exterior
+937;30160606;Depósito tarjeta de crédito
+938;30160607;Depósito tarjeta de débito
+939;30160608;Otros depósitos
+940;30160680;Diferencial cambiario
+941;30160690;Depósito fondo de retiro empleados
+942;30160699;Fondo de garantía
+943;301699;GASTOS FINANCIEROS POR PAGAR
+944;30169901;Interéses
+945;3016990102;Depósitos de ahorro
+946;3016990103;Depósitos a plazo
+947;3016990104;Depósitos a la órden
+948;3016990105;Depósitos con restricciones
+949;30169903;Beneficios adicionales
+950;30169980;Diferencial Cambiario
+951;302;CRÉDITOS OBTENIDOS
+952;3021;MONEDA NACIONAL
+953;302102;DE INSTITUCIONES FINANCIERAS NACIONALES
+954;30210201;De instituciones financieras nacionales
+955;302103;DE INSTITUCIONES FINANCIERAS EXTRANJERAS
+956;30210301;De instituciones financieras extranjeras
+957;302104;DE ORGANISMOS INTERNACIONALES
+958;30210401;De organismos internacionales
+959;302105;FEDERACIÓN
+960;30210501;Federación
+961;302106;DE INSTITUCIONES GUBERNAMENTALES
+962;30210601;De instituciones gubernamentales
+963;302199;GASTOS FINANCIEROS POR PAGAR
+964;30219901;Interéses
+965;3021990102;Instituciones financieras nacionales
+966;3021990103;Instituciones financieras extranjeras
+967;3021990104;Organismos internacionales
+968;3021990105;Federación
+969;3021990106;Instituciones gubernamentales
+970;30219902;Comisiones
+971;3021990202;Instituciones financieras nacionales
+972;3021990203;Instituciones financieras extranjeras
+973;3021990204;Organismos internacionales
+974;3021990205;Federación
+975;3021990206;Instituciones gubernamentales
+976;3026;MONEDA EXTRANJERA
+977;302602;DE INSTITUCIONES FINANCIERAS NACIONALES
+978;30260201;De instituciones financieras nacionales
+979;30260280;Diferencial cambiario
+980;302603;DE INSTITUCIONES FINANCIERAS EXTRANJERAS
+981;30260301;De instituciones financieras extranjeras
+982;30260380;Diferencial cambiario
+983;302604;DE ORGANISMOS INTERNACIONALES
+984;30260401;De organismos internacionales
+985;30260480;Diferencial cambiario
+986;302605;DE FEDERACIÓN
+987;30260501;De federación
+988;30260580;Diferencial cambiario
+989;302606;DE INSTITUCIONES GUBERNAMENTALES
+990;30260601;De instituciones gubernamentales
+991;30260680;Diferencial cambiario
+992;302699;GASTOS FINANCIEROS POR PAGAR
+993;30269901;Interéses
+994;3026990102;Instituciones financieras nacionales
+995;3026990103;Instituciones financieras extranjeras
+996;3026990104;Organismos internacionales
+997;3026990105;Federación
+998;3026990106;Instituciones gubernamentales
+999;30269902;Comisiones
+1000;3026990202;Instituciones financieras nacionales
+1001;3026990203;Instituciones financieras extranjeras
+1002;3026990204;Organismos internacionales
+1003;3026990205;Federación
+1004;3026990206;Instituciones gubernamentales
+1005;30269980;Diferencial cambiario
+1006;305;CUENTAS POR PAGAR
+1007;3051;MONEDA NACIONAL
+1008;305101;OBLIGACIONES INMEDIATAS
+1009;30510101;Acreedores
+1010;3051010101;Establecimientos afiliados
+1011;3051010102;Administradoras de cajeros automáticos
+1012;30510102;Gastos por pagar
+1013;30510103;Sobrantes de caja y valores
+1014;30510104;Sobregiros
+1015;30510105;Impuestos, arbitrios, contribuciones y cuotas
+1016;3051010501;Impuestos
+1017;3.05101E+11;ISR factura especial
+1018;3.05101E+11;IVA factura especial
+1019;3.05101E+11;Otros
+1020;3051010502;Arbitrios
+1021;3051010503;Contribuciones
+1022;3051010504;Cuotas
+1023;3.05101E+11;Fondo de Garantía
+1024;3.05101E+11;Otras
+1025;30510106;Retenciones
+1026;3051010601;Contribuciones laborales
+1027;3.05101E+11;IGSS
+1028;3.05101E+11;Fondo de retiro empleados
+1029;3.05101E+11;Banco de los trabajadores
+1030;3.05101E+11;Judiciales
+1031;3.05101E+11;IRTRA
+1032;3.05101E+11;INTECAP
+1033;3.05101E+11;Otras
+1034;3051010602;Impuesto sobre la renta
+1035;3051010603;Impuesto al valor agregado
+1036;30510107;Avalúos e inspecciones
+1037;30510110;Incentivos por uso de tarjeta de crédito
+1038;30510112;Remesas
+1039;30510113;Cuentas por pagar
+1040;30510199;Otras
+1041;305104;INGRESOS POR APLICAR
+1042;30510401;Consignaciones para gastos
+1043;30510402;Depósitos varios
+1044;30510499;Otros
+1045;305105;OBLIGACIONES POR ADMINISTRACIÓN
+1046;30510501;Cobros por cuenta ajena
+1047;3051050101;Impuestos
+1048;3051050102;Servicios públicos
+1049;3051050103;Servicios profesionales
+1050;3051050104;Seguros
+1051;3051050199;Otros
+1052;30510506;Ingresos por activos extraordinarios
+1053;305106;DEPÓSITOS EN GARANTÍA
+1054;30510601;Depósito en garantía
+1055;30510602;Remates
+1056;305107;DEPÓSITOS PAGADOS POR EL FONDO DE GARANTÍA
+1057;30510701;Depósitos pagados por el fondo de garantía
+1058;305108;FONDO DE RETIRO DE EMPLEADOS
+1059;30510801;Fondo de retiro de empleados
+1060;305199;OTRAS
+1061;3056;MONEDA EXTRANJERA
+1062;305601;OBLIGACIONES INMEDIATAS
+1063;30560101;Acreedores
+1064;3056010101;Establecimientos afiliados
+1065;3056010102;Administradoras de cajeros automáticos
+1066;30560102;Gastos por pagar
+1067;30560103;Sobrantes de caja y valores
+1068;30560104;Sobregiros
+1069;30560105;Impuestos, arbitrios, contribuciones y cuotas
+1070;3056010504;Cuotas
+1071;3.05601E+11;Fondo de garantía
+1072;3.05601E+11;Otras
+1073;30560106;Retenciones
+1074;30560107;Avalúos e inspecciones
+1075;30560110;Incentivos por uso de tarjeta de crédito
+1076;30560113;Cuentas por pagar
+1077;30560180;Diferencial cambiario
+1078;30560199;Otras
+1079;305604;INGRESOS POR APLICAR
+1080;30560401;Consignaciones para gastos
+1081;30560402;Depósitos varios
+1082;30560480;Diferencial cambiario
+1083;30560499;Otros
+1084;305605;OBLIGACIONES POR ADMINISTRACIÓN
+1085;30560501;Cobros por cuenta ajena
+1086;30560503;Servicios profesionales
+1087;30560599;Otras
+1088;30560580;Diferencial cambiario
+1089;305608;FONDO DE GARANTÍA
+1090;305699;OTRAS
+1091;306;PROVISIONES
+1092;3061;MONEDA NACIONAL
+1093;306101;LABORALES
+1094;30610101;Aguinaldos
+1095;30610102;Bonificaciones
+1096;30610103;Indemnizaciones
+1097;30610199;Otras
+1098;307;OTRAS
+1099;3071;MONEDA NACIONAL
+1100;307101;OTRAS
+1101;30710101;Órdenes de pago
+1102;30710102;Depósitos por aplicar
+1103;3076;MONEDA EXTRANJERA
+1104;307601;Órdenes de pago
+1105;30760101;Órdenes de pago
+1106;30760102;Depósitos por aplicar
+1107;30760180;Diferencial cambiario
+1108;309;CRÉDITOS DIFERIDOS
+1109;3091;MONEDA NACIONAL
+1110;309101;INTERESES PERCIBIDOS NO DEVENGADOS
+1111;30910101;Disponibilidades
+1112;30910102;Inversiones
+1113;30910103;Cartera de créditos
+1114;30910199;Otros
+1115;309103;"PRODUCTOS POR SERVICIOS PERCIBIDOS NO
+DEVENGADOS"
+1116;30910301;Arrendamientos
+1117;30910303;Otros bienes
+1118;30910399;Otros
+1119;3096;MONEDA EXTRANJERA
+1120;309601;INTERESES PERCIBIDOS NO DEVENGADOS
+1121;30960101;Disponibilidades
+1122;30960102;Inversiones
+1123;30960103;Cartera de Créditos
+1124;30960180;Diferencial Cambiario
+1125;30960199;Otros
+1126;309603;"PRODUCTOS POR SERVICIOS PERCIBIDOS NO
+DEVENGADOS"
+1127;30960301;Arrendamientos
+1128;30960303;Otros bienes
+1129;30960380;Diferencial cambiario
+1130;30960399;Otros
+1131;312;TRANSFERENCIAS INTERNAS
+1132;3121;MONEDA NACIONAL
+1133;312101;Préstamos entre agencias
+1134;31210101;Préstamos entre agencias (transacciones)
+1135;31210102;Préstamos entre agencias (tesorería)
+1136;312102;Ingreso / costo financiero préstamos entre agencias
+1137;312103;Asignación de costo corporativo
+1138;313;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+1139;3131;MONEDA NACIONAL
+1140;313101;OBLIGACIONES CORRIENTES
+1141;31310101;Obligaciones a corto plazo
+1142;313102;OBLIGACIONES NO CORRIENTES
+1143;31310201;Obligaciones a largo plazo
+1144;313103;OTROS PASIVOS
+1145;31310301;Otras obligaciones
+1146;3136;MONEDA EXTRANJERA
+1147;313601;OBLIGACIONES CORRIENTES
+1148;31360101;Obligaciones a corto plazo
+1149;313602;OBLIGACIONES NO CORRIENTES
+1150;31360201;Obligaciones a largo plazo
+1151;313603;OTROS PASIVOS
+1152;31360301;Otras obligaciones
+1153;4;OTRAS CUENTAS ACREEDORAS
+1154;402;PRODUCTOS CAPITALIZADOS
+1155;4021;MONEDA NACIONAL
+1156;402101;CARTERA DE CRÉDITOS
+1157;40210101;Cartera de créditos
+1158;402102;ACTIVOS EXTRAORDINARIOS
+1159;40210201;Productos acumulados
+1160;40210202;Excedente por avalúo
+1161;4026;MONEDA EXTRANJERA
+1162;402601;CARTERA DE CRÉDITOS
+1163;40260101;Cartera de créditos
+1164;40260180;Diferencial cambiario
+1165;402602;ACTIVOS EXTRAORDINARIOS
+1166;40260201;Productos acumulados
+1167;40260202;Excedente por avalúo
+1168;413;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+1169;4131;MONEDA NACIONAL
+1170;413101;OTRAS CUENTAS ACREEDORAS
+1171;41310101;Otras cuentas acreedoras
+1172;4136;MONEDA EXTRANJERA
+1173;413601;OTRAS CUENTAS ACREEDORAS
+1174;41360101;Otras cuentas acreedoras
+1175;499;TRANSITORIAS ACREEDORAS
+1176;4991;MONEDA NACIONAL
+1177;499101;CAPTACIONES
+1178;4996;MONEDA EXTRANJERA
+1179;499601;Captaciones
+1180;5;CAPITAL CONTABLE
+1181;501;CAPITAL SOCIAL
+1182;501101;APORTACIONES ASOCIADOS
+1183;50110101;Aportaciones obligatorias/ordinarias
+1184;50110102;Aportaciones voluntarias/extraordinarias
+1185;503;CAPITAL INSTITUCIONAL
+1186;503101;RESERVA IRREPARTIBLE
+1187;503104;RESERVA INSTITUCIONAL
+1188;503199;OTRAS RESERVAS
+1189;504;CAPITAL TRANSITORIO
+1190;504101;RESERVA OBRAS SOCIALES
+1191;504102;RESERVA PARA EVENTUALIDADES
+1192;504103;DONACIONES
+1193;50410301;Donaciones dinerarias
+1194;50410302;Donaciones no dinerarias
+1195;504104;RESERVA DE EDUCACIÓN
+1196;505;REVALUACIÓN DE ACTIVOS
+1197;505101;REVALUACIÓN DE INMUEBLES
+1198;50510101;Superávit terrenos
+1199;50510102;Superávit edificios
+1200;505102;REVALUACIÓN DE MUEBLES
+1201;50510201;Superávit muebles
+1202;512;RESULTADOS DE EJERCICIOS ANTERIORES
+1203;5121;RESULTADOS POR APLICAR
+1204;512101;EXCEDENTES POR APLICAR DE EJERCICIOS ANTERIORES
+1205;512102;PÉRDIDAS POR APLICAR DE EJERCICIOS ANTERIORES
+1206;513;RESULTADOS DEL EJERCICIO
+1207;5131;RESULTADOS DEL EJERCICIO
+1208;513101;EXCEDENTES DEL EJERCICIO
+1209;51310101;Excedente actividad ahorro y crédito
+1210;51310102;Excedente en negocios sin intermediación financiera
+1211;513102;PÉRDIDAS DEL EJERCICIO
+1212;51310201;Pérdida en actividad ahorro y crédito
+1213;51310202;Pérdida en negocios sin intermediación financiera
+1214;6;PRODUCTOS
+1215;601;PRODUCTOS FINANCIEROS
+1216;6011;PRODUCTOS VARIOS
+1217;601101;INTERESES
+1218;60110101;Disponibilidades
+1219;6011010103;Bancos del País
+1220;6011010104;Bancos del Exterior
+1221;6011010107;Federación
+1222;6.01101E+11;Encaje cooperativo
+1223;6.01101E+11;Depósitos de ahorro
+1224;6011010108;Otras entidades financieras
+1225;60110102;Inversiones
+1226;6011010203;En títulos-valores para su vencimiento
+1227;6.01101E+11;De gobierno y entidades oficiales
+1228;6.01101E+11;De instituciones financieras
+1229;6.01101E+11;De entidades no financieras
+1230;6011010206;De inversiones de fondo de garantía
+1231;60110103;Cartera de créditos
+1232;6011010302;Productivos
+1233;6.01101E+11;Préstamos
+1234;6.01101E+11;Deudores por venta de activos extraordinarios
+1235;6011010303;Microcréditos
+1236;6.01101E+11;Préstamos
+1237;6.01101E+11;Deudores por venta de activos extraordinarios
+1238;6011010304;Vivienda
+1239;6.01101E+11;Préstamos
+1240;6011010305;Consumo
+1241;6.01101E+11;Préstamos
+1242;6.01101E+11;Tarjeta de crédito
+1243;6.01101E+11;Deudores por venta de activos extraordinarios
+1244;60110104;Intereses por mora
+1245;6011010402;Productivos
+1246;6.01101E+11;Préstamos
+1247;6.01101E+11;Deudores por venta de activos extraordinarios
+1248;6011010403;Microcréditos
+1249;6.01101E+11;Préstamos
+1250;6.01101E+11;Deudores por venta de activos extraordinarios
+1251;6011010404;Vivienda
+1252;6.01101E+11;Préstamos
+1253;6011010405;Consumo
+1254;6.01101E+11;Préstamos
+1255;6.01101E+11;Tarjeta de crédito
+1256;6.01101E+11;Deudores por venta de activos extraordinarios
+1257;60110107;Otras inversiones
+1258;601102;PRODUCTOS POR GASTOS ADMINISTRATIVOS
+1259;60110201;Cartera de créditos
+1260;6011020102;Productivos
+1261;6.01102E+11;Préstamos
+1262;6.01102E+11;Deudores por venta de activos extraordinarios
+1263;6011020103;Microcréditos
+1264;6.01102E+11;Préstamos
+1265;6.01102E+11;Deudores por venta de activos extraordinarios
+1266;6011020104;Vivienda
+1267;6.01102E+11;Préstamos
+1268;6011020105;Consumo
+1269;6.01102E+11;Préstamos
+1270;6.01102E+11;Tarjeta de crédito
+1271;6.01102E+11;Deudores por venta de activos extraordinarios
+1272;60110299;Otras
+1273;601103;NEGOCIACIÓN DE TÍTULOS-VALORES
+1274;60110303;De títulos-valores para su vencimiento
+1275;602;PRODUCTOS POR SERVICIOS
+1276;6021;COMISIONES
+1277;602101;COMISIONES POR SERVICIOS DIVERSOS
+1278;60210101;Transferencias
+1279;60210103;Recaudaciones por cuenta de terceros
+1280;6021010301;De gobierno y entidades oficiales
+1281;6021010302;De instituciones financieras
+1282;6021010303;De entidades no financieras
+1283;60210109;Aceptación de tarjetas de crédito
+1284;60210110;"Comisiones por administración de fondos especiales del
+estado"
+1285;60210199;Otras
+1286;602102;ARRENDAMIENTOS
+1287;60210202;Otros bienes
+1288;602104;AVALUOS E INSPECCIONES
+1289;602106;INGRESOS POR COBRANZA
+1290;60210601;Cartera de créditos
+1291;6021060102;Productivos
+1292;6.02106E+11;Préstamos
+1293;6.02106E+11;Deudores por venta de activos extraordinarios
+1294;6021060103;Microcréditos
+1295;6.02106E+11;Préstamos
+1296;6.02106E+11;Deudores por venta de activos extraordinarios
+1297;6021060104;Vivienda
+1298;6.02106E+11;Préstamos
+1299;6021060105;Consumo
+1300;6.02106E+11;Préstamos
+1301;6.02106E+11;Tarjeta de crédito
+1302;6.02106E+11;Deudores por venta de activos extraordinarios
+1303;6021060199;Otros
+1304;603;"GANANCIA POR VALOR DE MERCADO DE TÍTULOS-
+VALORES"
+1305;6031;"GANANCIA POR VALOR DE MERCADO DE TITULOS-
+VALORES"
+1306;603101;"GANANCIA POR VALOR DE MERCADO DE TÍTULOS –
+VALORES"
+1307;604;"VARIACIONES Y GANANCIAS CAMBIARIAS EN MONEDA
+EXTRANJERA"
+1308;6041;MONEDA EXTRANJERA
+1309;604101;VARIACIONES TIPO DE CAMBIO
+1310;604102;GANANCIA CAMBIARIA
+1311;60410201;En realización de activos
+1312;60410202;En liquidación de pasivos
+1313;60410203;En compra-venta de divisas
+1314;604199;OTRAS
+1315;605;PRODUCTOS POR ACCIONES
+1316;6051;DIVIDENDOS E INTERESES
+1317;605101;DIVIDENDOS POR ACCIONES
+1318;60510101;De instituciones financieras
+1319;60510102;De instituciones no financieras
+1320;605102;INTERESES POR APORTACIONES
+1321;60510201;Intereses por aportaciones federación
+1322;60510202;Intereses por aportaciones otras
+1323;607;PRODUCTOS EXTRAORDINARIOS
+1324;6071;PRODUCTOS
+1325;607101;ACTIVOS EXTRAORDINARIOS
+1326;60710101;Utilidad en tenencia y explotación
+1327;60710102;Utilidad en liquidación
+1328;607102;VENTA DE INMUEBLES Y MUEBLES
+1329;60710201;Utilidad en venta de inmuebles
+1330;60710202;Utilidad en venta de muebles
+1331;60710203;Utilidad en bienes para arrendamiento financiero
+1332;607103;RECUPERACIONES
+1333;60710301;Préstamos depurados
+1334;60710302;Otros productos por Préstamos depurados
+1335;607104;INDEMNIZACIONES POR DAÑOS
+1336;607199;OTROS
+1337;612;INGRESOS POR TRANSFERENCIAS INTERNAS
+1338;6121;INGRESOS POR TRANSFERENCIAS INTERNAS
+1339;612101;INGRESOS FINANCIEROS PRÉSTAMO ENTRE AGENCIAS
+1340;612102;ASIGNACIÓN DEL INGRESO CORPORATIVO
+1341;613;"INGRESOS OTROS NEGOCIOS SIN INTERMEDIACIÓN
+FINANCIERA"
+1342;6131;INGRESOS VARIOS
+1343;613101;VENTAS
+1344;61310101;Ventas a asociados
+1345;61310102;Ventas a no asociados
+1346;613102;SERVICIOS
+1347;61310201;Servicios a asociados
+1348;61310202;Servicios a no asociados
+1349;613103;OTROS INGRESOS
+1350;61310301;Otros ingresos de asociados
+1351;61310302;Otros ingresos de no asociados
+1352;613104;OTROS PRODUCTOS
+1353;61310401;Otros productos de asociados
+1354;61310402;Otros productos de no asociados
+1355;613105;INGRESOS EXTRAORDINARIOS
+1356;61310501;Ingresos de asociados
+1357;61310502;Ingresos de no asociados
+1358;7;GASTOS
+1359;701;GASTOS FINANCIEROS
+1360;7011;GASTOS PAGO DE INTERESES
+1361;701101;INTERESES
+1362;70110101;Obligaciones depositarias
+1363;7011010102;Depósitos de ahorro
+1364;7011010103;Depósitos a plazo
+1365;7011010104;Depósitos a la órden
+1366;7011010105;Depósitos con restricciones
+1367;7011010106;Federación
+1368;7.01101E+11;Depósitos de encaje
+1369;7.01101E+11;Depósitos de ahorro
+1370;7.01101E+11;Depósitos a plazo
+1371;7.01101E+11;Depósitos intersistema
+1372;7.01101E+11;Depósitos remesas del exterior
+1373;7.01101E+11;Depósitos tarjeta de crédito
+1374;7.01101E+11;Depósitos tarjeta de débito
+1375;7.01101E+11;Otros depósitos
+1376;7.01101E+11;Aportaciones
+1377;7.01101E+11;Depósitos fondos de retiro empleados
+1378;7.01101E+11;Fondo de garantía
+1379;7011010150;Aportaciones
+1380;70110102;Créditos obtenidos
+1381;7011010202;De instituciones financieras nacionales
+1382;7011010203;De instituciones gubernamentales
+1383;7011010204;De instituciones financieras extranjeras
+1384;7011010205;De organismos internacionales
+1385;7011010206;Federación
+1386;701102;COMISIONES
+1387;70110201;Obligaciones depositarias
+1388;70110202;Créditos obtenidos
+1389;70110299;Otras
+1390;701103;BENEFICIOS ADICIONALES
+1391;70110301;Beneficios adicionales
+1392;70110399;Otros
+1393;701104;NEGOCIACIÓN DE TÍTULOS-VALORES
+1394;70110403;De títulos-valores para su vencimiento
+1395;701105;CUOTA DE FORMACIÓN FONDO DE GARANTÍA
+1396;702;GASTOS POR SERVICIOS
+1397;7021;GASTOS
+1398;702101;COMISIONES POR SERVICIOS
+1399;70210101;Cobranzas
+1400;70210102;Avales, fianzas y garantías
+1401;70210103;Operaciones cajeros automáticos
+1402;70210104;Por uso de tarjetas de crédito
+1403;70210199;Otras
+1404;703;"PÉRDIDA POR VALOR DE MERCADO DE TITULOS-
+VALORES"
+1405;7031;"PÉRDIDA POR VALOR DE MERCADO DE TITULOS-
+VALORES"
+1406;703101;"PÉRDIDA POR VALOR DE MERCADO DE TÍTULOS-
+VALORES"
+1407;704;"VARIACIONES Y PÉRDIDAS CAMBIARIAS EN MONEDA
+EXTRANJERA"
+1408;7041;VARIACIONES TIPO DE CAMBIO
+1409;704101;VARIACIONES TIPO DE CAMBIO
+1410;704102;PÉRDIDA CAMBIARIA
+1411;70410201;En realización de activos
+1412;70410202;En liquidación de pasivos
+1413;70410203;En compra-venta de divisas
+1414;704199;OTRAS
+1415;705;"ESTIMACIONES SOBRE CUENTAS INCOBRABLES Y DE
+DUDOSA RECUPERACION"
+1416;7051;ESTIMACIONES SOBRE CUENTAS INCOBRABLES
+1417;705101;INVERSIONES
+1418;705102;CARTERA DE CRÉDITOS
+1419;705103;CUENTAS POR COBRAR
+1420;705104;BIENES REALIZABLES
+1421;705105;INVERSIONES PERMANENTES
+1422;705106;OTRAS
+1423;705107;INVERSIONES NO FINANCIERAS
+1424;706;GASTOS DE ADMINISTRACIÓN
+1425;7061;GASTOS
+1426;706101;ORGANOS DIRECTIVOS
+1427;70610101;Dietas
+1428;7061010101;Consejo de administración
+1429;7061010102;Comisión de vigilancia
+1430;7061010103;Comité de crédito
+1431;7061010104;Otros
+1432;70610103;Transporte y viáticos
+1433;70610104;Asamblea
+1434;70610199;Otros
+1435;706102;FUNCIONARIOS Y EMPLEADOS
+1436;70610201;Sueldos ordinarios
+1437;70610202;Sueldos extraordinarios
+1438;70610203;Aguinaldos
+1439;70610204;Indemnizaciones
+1440;70610205;Bonificaciones
+1441;70610206;Gastos de representación
+1442;70610207;Entrenamiento y capacitación
+1443;70610208;Transporte y viáticos
+1444;70610209;Cuota patronal IGSS
+1445;70610210;Vacaciones
+1446;70610211;Asistencia médica y seguros
+1447;70610212;Fondo de retiro empleados
+1448;70610299;Otras prestaciones laborales
+1449;706103;TRIBUTOS Y OTRAS CUOTAS
+1450;70610301;Impuestos
+1451;7061030101;IVA factura especial
+1452;7061030102;ISR factura especial
+1453;7061030103;Otras
+1454;70610302;Arbitrios
+1455;70610303;Contribuciones
+1456;70610304;Cuotas
+1457;7061030401;Cuotas INGECOP
+1458;7.06103E+11;Cuota de fiscalización
+1459;7.06103E+11;Otros
+1460;7061030402;Cuotas INACOP
+1461;706104;HONORARIOS PROFESIONALES
+1462;70610401;Auditoría externa
+1463;70610402;Asesoría legal
+1464;70610403;Asistencia técnica
+1465;70610404;Valuaciones
+1466;70610405;Auditoría interna
+1467;70610406;Investigación
+1468;70610407;Unidad de riesgos
+1469;70610499;Otros
+1470;706105;ARRENDAMIENTOS
+1471;70610501;Inmuebles
+1472;70610502;Muebles
+1473;7061050201;Mobiliario y equipo de oficina
+1474;7061050202;Sistemas informáticos
+1475;7061050203;Equipo de comunicaciones
+1476;7061050204;Vehículos
+1477;7061050205;Maquinaria
+1478;70610599;Otros
+1479;706106;REPARACIONES Y MANTENIMIENTO
+1480;70610601;Inmuebles
+1481;70610602;Muebles
+1482;7061060201;Mobiliario y equipo de oficina
+1483;7061060202;Sistemas informáticos
+1484;7061060203;Equipo de comunicaciones
+1485;7061060204;Vehículos
+1486;7061060205;Maquinaria
+1487;70610699;Otros
+1488;706107;MERCADEO Y PUBLICIDAD
+1489;70610701;Estudios de mercado
+1490;70610702;Publicidad y propaganda
+1491;70610703;Promociones
+1492;70610704;Sorteos
+1493;70610705;Relaciones públicas
+1494;70610799;Otros
+1495;706108;PRIMAS DE SEGUROS Y FIANZAS
+1496;70610801;Seguros
+1497;70610802;Fianzas
+1498;706109;DEPRECIACIONES Y AMORTIZACIONES
+1499;70610901;Depreciaciones
+1500;7061090101;Edificios
+1501;7061090102;Mobiliario y equipo de oficina
+1502;7061090103;Sistemas informáticos
+1503;7061090104;Equipo de comunicaciones
+1504;7061090105;Maquinaria
+1505;7061090106;Vehículos
+1506;7061090107;Biblioteca
+1507;7061090199;Otras
+1508;70610902;Amortizaciones
+1509;7061090201;Gastos de organización
+1510;7061090202;Gastos de acondicionamiento y remodelación de oficinas
+1511;7061090203;Mejoras a propiedades ajenas
+1512;7061090204;Gastos por fusión
+1513;7061090205;Derechos de llave
+1514;7061090207;Marcas y patentes
+1515;7061090208;Concesiones
+1516;7061090209;Licencias de programas informáticos
+1517;70610999;Otras
+1518;706110;PAPELERÍA
+1519;706199;GASTOS VARIOS
+1520;70619901;Seguridad y vigilancia
+1521;70619902;Mensajería
+1522;70619903;Procesamiento electrónico de datos
+1523;70619904;Reclutamiento de personal
+1524;70619905;Mantenimiento y otros servicios
+1525;70619906;Cuotas asociaciones diversas
+1526;70619907;Donaciones
+1527;70619908;Fletes y acarreos
+1528;70619909;Energía eléctrica
+1529;70619910;Agua
+1530;70619911;Suscripciones
+1531;70619912;Comunicaciones
+1532;7061991201;Teléfono
+1533;7061991202;Correo
+1534;7061991203;Electrónicas
+1535;70619913;Parqueo
+1536;70619914;Por uso de marca de tarjetas de crédito y débito
+1537;70619915;Multas
+1538;70619999;Otros
+1539;708;GASTOS EXTRAORDINARIOS
+1540;7081;GASTOS EXTRAORDINARIOS
+1541;708101;ACTIVOS EXTRAORDINARIOS
+1542;70810101;Pérdida en tenencia y explotación
+1543;70810102;Pérdida en liquidación
+1544;708102;GASTOS POR VENTA DE INMUEBLES Y MUEBLES
+1545;70810201;Pérdida en venta de inmuebles
+1546;70810202;Pérdida en venta de muebles
+1547;70810203;Pérdida en bienes para arrendamiento financiero
+1548;708103;"CONSUMOS EN TARJETAS DE CRÉDITO POR CONSUMOS
+FRAUDULENTOS"
+1549;708104;INDEMNIZACIONES POR DAÑOS
+1550;708199;OTROS
+1551;712;COSTO POR TRANSFERENCIAS INTERNAS
+1552;7121;COSTO POR TRANSFERENCIAS INTERNAS
+1553;712101;COSTO FINANCIERO PRÉSTAMOS ENTRE AGENCIAS
+1554;712102;ASIGNACIÓN DEL COSTO CORPORATIVO
+1555;713;"COSTOS Y GASTOS DE NEGOCIOS SIN INTERMEDIACIÓN
+FINANCIERA"
+1556;7131;COSTOS Y GASTOS
+1557;713101;COSTO DE VENTAS
+1558;71310101;Compras
+1559;71310102;Fletes sobre compras
+1560;713102;GASTOS DE OPERACIÓN
+1561;71310201;Gastos de ventas
+1562;71310202;Gastos por servicios
+1563;71310203;Gastos de administración
+1564;71310204;Gastos financieros
+1565;713103;OTROS GASTOS
+1566;71310301;Otros gastos
+1567;713104;GASTOS EXTRAORDINARIOS
+1568;71310401;Gastos extraordinarios
+1569;799;IMPUESTO SOBRE LA RENTA
+1570;7991;IMPUESTO SOBRE LA RENTA
+1571;799101;IMPUESTO SOBRE LA RENTA
+1572;8;"CONTINGENCIAS, COMPROMISOS Y OTRAS
+RESPONSABILIDADES"
+1573;801;CONTINGENCIAS Y COMPROMISOS
+1574;8011;MONEDA NACIONAL
+1575;801101;GARANTÍAS OTORGADAS
+1576;801102;AVALES
+1577;801105;AJUSTES Y DEMANDAS EN CONTRA
+1578;801108;"CRÉDITOS FORMALIZADOS PENDIENTES DE
+DESEMBOLSAR O UTILIZAR"
+1579;80110801;Préstamos
+1580;8011080101;Líneas de crédito
+1581;8011080102;De entrega gradual
+1582;8011080199;Otros
+1583;80110802;Tarjetas de crédito
+1584;801199;OTRAS
+1585;8016;MONEDA EXTRANJERA
+1586;801601;GARANTÍAS OTORGADAS
+1587;80160101;Garantías otorgadas
+1588;80160180;Diferencial cambiario
+1589;801602;AVALES
+1590;80160201;Avales
+1591;80160280;Diferencial cambiario
+1592;801605;AJUSTES Y DEMANDAS EN CONTRA
+1593;80160501;Ajustes y demandas en contra
+1594;80160580;Diferencial cambiario
+1595;801608;"CRÉDITOS FORMALIZADOS PENDIENTES DE
+DESEMBOLSAR O UTILIZAR"
+1596;80160801;Préstamos
+1597;8016080101;Líneas de crédito
+1598;8016080102;De entrega gradual
+1599;8016080199;Otros
+1600;80160802;Tarjetas de crédito
+1601;8016080;Diferencial cambiario
+1602;801699;OTRAS
+1603;80169980;Diferencial cambiario
+1604;80169999;Otras
+1605;813;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+1606;8131;MONEDA NACIONAL
+1607;813101;CONTINGENCIAS
+1608;81310101;Contingencias
+1609;888888;CUENTAS POR CONTRARIO
+1610;9;CUENTAS DE ORDEN
+1611;901;VALORES Y BIENES CEDIDOS EN GARANTÍA
+1612;9011;MONEDA NACIONAL
+1613;901102;POR CRÉDITOS OBTENIDOS DE OTRAS ENTIDADES
+1614;90110201;Títulos-valores
+1615;90110202;Cartera de créditos
+1616;90110203;Inmuebles
+1617;90110206;Federación
+1618;90110299;Otros
+1619;901602;POR CRÉDITOS OBTENIDOS DE OTRAS ENTIDADES
+1620;90160201;Títulos-valores
+1621;90160202;Cartera de créditos
+1622;90160206;Federación
+1623;90160280;Diferencial cambiario
+1624;90160299;Otros
+1625;902;GARANTÍAS CARTERA DE CRÉDITOS
+1626;9021;MONEDA NACIONAL
+1627;902102;HIPOTECAS
+1628;902103;PRENDAS
+1629;90210301;En poder de la cooperativa
+1630;90210303;En poder del deudor
+1631;902104;FIDEICOMISOS
+1632;902105;DEPÓSITOS BANCARIOS
+1633;90210501;Depósitos bancarios
+1634;902106;OTRAS GARANTÍAS RECIBIDAS
+1635;90210604;Derechos de posesión
+1636;90210699;Otras
+1637;9026;MONEDA EXTRANJERA
+1638;902602;HIPOTECAS
+1639;90260201;Hipotecas
+1640;90260280;Diferencial cambiario
+1641;902603;PRENDAS
+1642;90260301;En poder de la cooperativa
+1643;90260303;En poder del deudor
+1644;90260380;Diferencial cambiario
+1645;902605;DEPÓSITOS BANCARIOS
+1646;90260501;Depósitos bancarios
+1647;90260580;Diferencial cambiario
+1648;902606;OTRAS GARANTÍAS RECIBIDAS
+1649;90260604;Derechos de posesión
+1650;90260680;Diferencial cambiario
+1651;90260699;Otras
+1652;903;"CLASIFICACIÓN DE INVERSIONES, CARTERA DE
+CRÉDITOS Y OTROS ACTIVOS CREDITICIOS"
+1653;9031;MONEDA NACIONAL
+1654;903101;INVERSIONES
+1655;90310101;Inversiones
+1656;903102;CARTERA DE CRÉDITOS
+1657;90310201;"Categoría ""A"""
+1658;9031020102;Productivos
+1659;9031020103;Microcréditos
+1660;9031020104;Vivienda
+1661;9031020105;Consumo
+1662;90310202;"Categoría ""B"""
+1663;9031020202;Productivos
+1664;9031020203;Microcréditos
+1665;9031020204;Vivienda
+1666;9031020205;Consumo
+1667;90310203;"Categoría ""C"""
+1668;9031020302;Productivos
+1669;9031020303;Microcréditos
+1670;9031020304;Vivienda
+1671;9031020305;Consumo
+1672;90310204;"Categoría ""D"""
+1673;9031020402;Productivos
+1674;9031020403;Microcréditos
+1675;9031020404;Vivienda
+1676;9031020405;Consumo
+1677;90310205;"Categoría ""E"""
+1678;9031020502;Productivos
+1679;9031020503;Microcréditos
+1680;9031020504;Vivienda
+1681;9031020505;Consumo
+1682;903103;OTROS ACTIVOS CREDITICIOS
+1683;90310301;"Categoría ""A"""
+1684;90310302;"Categoría ""B"""
+1685;90310303;"Categoría ""C"""
+1686;90310304;"Categoría ""D"""
+1687;90310305;"Categoría ""E"""
+1688;9036;MONEDA EXTRANJERA
+1689;903601;INVERSIONES
+1690;90360101;Inversiones
+1691;90360180;Diferencial cambiario
+1692;903602;CARTERA DE CRÉDITOS
+1693;90360201;"Categoría ""A"""
+1694;9036020102;Productivos
+1695;9036020103;Microcréditos
+1696;9036020104;Vivienda
+1697;9036020105;Consumo
+1698;90360202;"Categoría ""B"""
+1699;9036020202;Productivos
+1700;9036020203;Microcréditos
+1701;9036020204;Vivienda
+1702;9036020205;Consumo
+1703;90360203;"Categoría ""C"""
+1704;9036020302;Productivos
+1705;9036020303;Microcréditos
+1706;9036020304;Vivienda
+1707;9036020305;Consumo
+1708;90360204;"Categoría ""D"""
+1709;9036020402;Productivos
+1710;9036020403;Microcréditos
+1711;9036020404;Vivienda
+1712;9036020405;Consumo
+1713;90360205;"Categoría ""E"""
+1714;9036020502;Productivos
+1715;9036020503;Microcréditos
+1716;9036020504;Vivienda
+1717;9036020505;Consumo
+1718;90360280;Diferencial cambiario
+1719;903603;OTROS ACTIVOS CREDITICIOS
+1720;90360301;"Categoría ""A"""
+1721;90360302;"Categoría ""B"""
+1722;90360303;"Categoría ""C"""
+1723;90360304;"Categoría ""D"""
+1724;90360305;"Categoría ""E"""
+1725;90360380;Diferencial Cambiario
+1726;905;ADMINISTRACIONES AJENAS
+1727;9051;MONEDA NACIONAL
+1728;905104;ADMINISTRACIÓN CARTERA AJENA
+1729;90510401;Cartera de créditos
+1730;90510499;Otras
+1731;9056;MONEDA EXTRANJERA
+1732;905604;ADMINISTRACIÓN CARTERA AJENA
+1733;90560401;Cartera de créditos
+1734;90560480;Diferencial cambiario
+1735;90560499;Otras
+1736;906;DOCUMENTOS Y VALORES PROPIOS REMITIDOS
+1737;9061;MONEDA NACIONAL
+1738;906101;PARA SU COBRO
+1739;90610101;A jurídico
+1740;90610102;A terceros
+1741;9066;MONEDA EXTRANJERA
+1742;906601;PARA SU COBRO
+1743;90660101;A jurídico
+1744;90660102;A terceros
+1745;90660180;Diferencial cambiario
+1746;913;OTRAS CUENTAS DE ÓRDEN
+1747;9131;MONEDA NACIONAL
+1748;913102;"DEUDORES POR CUENTAS Y VALORES DECLARADOS
+INCOBRABLES (DEPURACIONES)"
+1749;91310201;Inversiones
+1750;91310202;Cartera de créditos
+1751;91310203;Cuentas por cobrar
+1752;91310204;Bienes realizables
+1753;91310205;Inversiones permanentes
+1754;91310206;Otras inversiones
+1755;91310207;Inversiones no financieras
+1756;91310208;Cartera tarjeta de créditos
+1757;913105;PRODUCTOS POR SERVICIOS POR LUCRO CESANTE
+1758;913106;FORMACIÓN FONDO DE GARANTÍA DE DEPÓSITOS
+1759;9136;MONEDA EXTRANJERA
+1760;913601;CRÉDITOS APROBADOS NO FORMALIZADOS
+1761;91360101;Préstamos
+1762;91360180;Diferencial cambiario
+1763;91360199;Otros
+1764;913602;"DEUDORES POR CUENTAS Y VALORES DECLARADOS
+INCOBRABLES"
+1765;91360201;Inversiones
+1766;91360202;Cartera de créditos
+1767;91360203;Cuentas por cobrar
+1768;91360204;Bienes realizables
+1769;91360205;Inversiones permanentes
+1770;91360206;Otras inversiones
+1771;91360280;Diferencial cambiario
+1772;913606;FORMACIÓN FONDO DE GARANTÍA
+1773;91360601;Formación fondo de garantía
+1774;91360680;Diferencial cambiario
+1775;914;CUENTAS DE REGISTRO
+1776;9141;CUENTAS DE REGISTRO
+1777;914101;DOCUMENTOS Y VALORES EN CUSTODIA
+1778;91410101;Propios
+1779;914102;ACTIVOS TOTALMENTE DEPRECIADOS
+1780;914103;FORMAS EN BLANCO
+1781;91410303;Libretas
+1782;91410305;Tarjetas plásticas
+1783;91410306;Certificados de depósito a plazo
+1784;91410307;Facturas especiales
+1785;91410308;Boletos de ornato
+1786;91410309;Órdenes de pago
+1787;91410399;Otras
+1788;915;PRODUCTOS DEVENGADOS NO PERCIBIDOS
+1789;9151;PRODUCTOS DEVENGADOS NO PERCIBIDOS
+1790;915101;CARTERA DE CRÉDITOS
+1791;91510102;Productivos
+1792;9151010201;Préstamos
+1793;9151010209;Deudores por venta de activos extraordinarios
+1794;91510103;Microcréditos
+1795;9151010301;Préstamos
+1796;9151010309;Deudores por venta de activos extraordinarios
+1797;91510104;Vivienda
+1798;9151010401;Préstamos
+1799;91510105;Consumo
+1800;9151010501;Préstamos
+1801;9151010505;Tarjeta de crédito
+1802;9151010509;Deudores por venta de activos extraordinarios
+1803;917;NEGOCIOS SIN INTERMEDIACIÓN FINANCIERA
+1804;9171;MONEDA NACIONAL
+1805;917101;CUENTAS DE ÓRDEN
+1806;999999;CUENTAS DE ÓRDEN POR EL CONTRARIO
